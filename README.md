@@ -621,10 +621,10 @@ Questions always revolves around the type of DB, why this DB, why not that DB, h
 <details>
   <summary style="font-size:1.15rem;">Introduction</summary>
 
-- [What is Database?](https://www.javatpoint.com/what-is-database)
+- [What is Database?](https://www.tpointtech.com/what-is-database)
 - [What is DBMS?](https://www.guru99.com/what-is-dbms.html)
 - [Why do we need DBMS?](https://www.geeksforgeeks.org/need-for-dbms/)
-- [File management system vs DBMS](https://www.javatpoint.com/dbms-vs-files-system)
+- [File management system vs DBMS](https://www.tpointtech.com/dbms-vs-files-system)
 - [What is Database Admin & it's functions?](https://practice.geeksforgeeks.org/problems/what-are-the-functions-of-a-dba)
 - [Database Tier-2/Tier-3 Architecture](https://www.geeksforgeeks.org/difference-between-two-tier-and-three-tier-database-architecture/)
 - [Database Language](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
@@ -762,7 +762,7 @@ Questions always revolves around the type of DB, why this DB, why not that DB, h
     - Recoverable
     - Cascadeless
     - Strict
-  - [What is Conflict Operation?](https://www.javatpoint.com/dbms-conflict-serializable-schedule)
+  - [What is Conflict Operation?](https://www.tpointtech.com/dbms-conflict-serializable-schedule)
   - How to find wether Schedules are conflicting or not
 - [Concurrency Control](https://www.tutorialspoint.com/dbms/dbms_concurrency_control.htm)
   - Purpose?
@@ -827,8 +827,8 @@ What to expect from these resources,
 <details>
   <summary style="font-size:1.15rem;">Resources</summary>
 
-- [C++](https://www.javatpoint.com/cpp-oops-concepts)
-- [Java](https://www.javatpoint.com/java-oops-concepts)
+- [C++](https://www.tpointtech.com/cpp-oops-concepts)
+- [Java](https://www.tpointtech.com/java-oops-concepts)
 
 </details>
 
@@ -853,7 +853,7 @@ What to expect from these resources,
   - [Difference between Structure & Class](https://www.geeksforgeeks.org/structure-vs-class-in-cpp/)
   - [Similarity between Structure & Class](https://practice.geeksforgeeks.org/problems/what-are-similarities-between-a-class-and-a-structure)
     - When to use Structure over class?
-  - [Access Modifiers](https://www.javatpoint.com/access-modifiers)
+  - [Access Modifiers](https://www.tpointtech.com/access-modifiers)
     - Public
     - Private
     - Protected
@@ -883,39 +883,39 @@ What to expect from these resources,
     - Can a destructor be virtual?
       - [When to use it?](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors)
 - What is an Object?
-  - [Class vs Object](https://www.javatpoint.com/difference-between-object-and-class)
+  - [Class vs Object](https://www.tpointtech.com/difference-between-object-and-class)
 - [Real world analogy of Class and Object?](https://www.c-sharpcorner.com/blogs/real-life-examples-of-object-oriented-programming1)
 - Important Keywords
   - [Static](https://www.youth4work.com/Talent/Core-Java/Forum/119567-wat-is-the-use-of-a-static-keyword?yFast=On)
   - [Virtual](https://www.codeproject.com/Questions/270054/why-virtual-keyword-is-used)
   - [Abstract](https://www.tutorialspoint.com/abstract-keyword-in-Java)
-  - [Final](https://www.javatpoint.com/final-keyword)
+  - [Final](https://www.tpointtech.com/final-keyword)
   - [Explicit](https://www.geeksforgeeks.org/g-fact-93/)
-  - [this](https://www.javatpoint.com/this-keyword)
-  - [new](https://www.javatpoint.com/new-keyword-in-java)
+  - [this](https://www.tpointtech.com/this-keyword)
+  - [new](https://www.tpointtech.com/new-keyword-in-java)
   - [const](https://stackoverflow.com/questions/7428358/why-const-keyword-is-not-used-in-java)
-  - [super](https://www.javatpoint.com/super-keyword)
+  - [super](https://www.tpointtech.com/super-keyword)
 - Features of OOPS
   - Polymorphism
-    - [What?](https://www.javatpoint.com/runtime-polymorphism-in-java)
+    - [What?](https://www.tpointtech.com/runtime-polymorphism-in-java)
     - [Need?](https://stackoverflow.com/questions/11064409/why-to-use-polymorphism)
     - Categorisation
-      - [Function/Operator Overloading](https://www.javatpoint.com/cpp-overloading)
+      - [Function/Operator Overloading](https://www.tpointtech.com/cpp-overloading)
         - [Compiletime Polymorphism](https://www.dineshonjava.com/compile-time-polymorphism-in-java/)
         - [What function can't be overloaded in C++?](https://www.geeksforgeeks.org/function-overloading-in-c/)
         - [What are all operators that can't be overloaded?](https://www.tutorialspoint.com/operators-that-cannot-be-overloaded-in-cplusplus)
-      - [Function Overriding](https://www.javatpoint.com/runtime-polymorphism-in-java)
+      - [Function Overriding](https://www.tpointtech.com/runtime-polymorphism-in-java)
         - Runtime Polymorphism
-    - [Virtual Function](https://www.javatpoint.com/cpp-virtual-function)
+    - [Virtual Function](https://www.tpointtech.com/cpp-virtual-function)
     - [Virtual Class](https://www.geeksforgeeks.org/virtual-base-class-in-c/)
     - [Derived Class](https://www.techopedia.com/definition/3780/derived-class)
     - [Can virtual function be set private?](https://www.geeksforgeeks.org/can-virtual-functions-be-private-in-c/)
     - [Inline Virtual Function](https://stackoverflow.com/questions/733737/are-inline-virtual-functions-really-a-non-sense)
-    - [Abstract Class](https://www.javatpoint.com/abstract-class-in-java)
+    - [Abstract Class](https://www.tpointtech.com/abstract-class-in-java)
     - [Pure Virtual Function](https://www.geeksforgeeks.org/pure-virtual-functions-and-abstract-classes/)
     - [Pure Virtual Destructor](https://stackoverflow.com/questions/1219607/why-do-we-need-a-pure-virtual-destructor-in-c)
   - Inheritance
-    - [What is Inheritance?](https://www.javatpoint.com/inheritance-in-java)
+    - [What is Inheritance?](https://www.tpointtech.com/inheritance-in-java)
       - Sub Class
       - Super Class
       - Reusability
@@ -944,17 +944,17 @@ What to expect from these resources,
     - [Difference between polymorphism and inheritance?](https://www.geeksforgeeks.org/difference-between-inheritance-and-polymorphism/)
     - [Generalisation vs Aggregation vs Composition](https://javapapers.com/oops/association-aggregation-composition-abstraction-generalization-realization-dependency/)
   - Encapsulation
-    - [What?](https://www.javatpoint.com/encapsulation)
+    - [What?](https://www.tpointtech.com/encapsulation)
       - Combo of Data-hiding & Abstraction
-    - [Advantages/Needs?](https://www.javatpoint.com/q/7216/use-of-encapsulation-in-java)
+    - [Advantages/Needs?](https://www.tpointtech.com/q/7216/use-of-encapsulation-in-java)
     - [How to achieve?](https://www.quora.com/How-do-we-achieve-encapsulation-in-java)
     - [Code/implementation Example](https://beginnersbook.com/2013/05/encapsulation-in-java/)
     - [Real World Example](https://www.sitesbay.com/java/java-encapsulation)
   - Abstraction
-    - [What?](https://www.javatpoint.com/javascript-oops-abstraction)
+    - [What?](https://www.tpointtech.com/javascript-oops-abstraction)
       - Implementation hiding
     - When to use?
-    - [How to achieve?](https://www.javatpoint.com/how-to-achieve-abstraction-in-java)
+    - [How to achieve?](https://www.tpointtech.com/how-to-achieve-abstraction-in-java)
       - C++
         - Access Specifiers
         - header Files
@@ -963,8 +963,8 @@ What to expect from these resources,
         - Abstract Classes
     - [Encapsulation vs Abstraction](https://stackoverflow.com/questions/12072980/encapsulation-vs-abstraction-real-world-example)
       - Example
-    - [What are the differences between interfaces and abstract classes?](https://www.javatpoint.com/difference-between-abstract-class-and-interface)
-- [Dynamic Binding](https://www.javatpoint.com/static-binding-and-dynamic-binding)
+    - [What are the differences between interfaces and abstract classes?](https://www.tpointtech.com/difference-between-abstract-class-and-interface)
+- [Dynamic Binding](https://www.tpointtech.com/static-binding-and-dynamic-binding)
 - [Message Passing](https://www.panonit.com/blog/overview-message-passing-object-oriented-programming)
 - Object-oriented design interview questions
   - [Design a hash map](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/hash_table/hash_map.ipynb)
@@ -988,17 +988,17 @@ What to expect from these resources,
 - [How many instances can be created for an abstract class?](https://www.quora.com/Can-we-create-instance-to-abstract-class)
 - [Define Garbage collection? How does it works](https://stackify.com/what-is-java-garbage-collection/)
 - [Define manipulators](https://www.geeksforgeeks.org/manipulators-in-c-with-examples/)
-- [What fo you mean by finally block?](https://www.javatpoint.com/finally-block-in-exception-handling)
+- [What fo you mean by finally block?](https://www.tpointtech.com/finally-block-in-exception-handling)
 - [What is a final variable?](https://www.educative.io/edpresso/what-is-the-final-keyword-in-java)
 - [What is meant by an exception?](http://www.iitk.ac.in/esc101/05Aug/tutorial/essential/exceptions/definition.html)
 - [Is an error basically the same as an exception?](https://www.quora.com/What-is-the-difference-between-error-and-an-exception)
 - Exception handling?
   - [try catch](https://beginnersbook.com/2013/04/try-catch-in-java/)
-- [What is the method 'finalize' used for?](https://www.javatpoint.com/java-object-finalize-method)
+- [What is the method 'finalize' used for?](https://www.tpointtech.com/java-object-finalize-method)
 - [What is a token?](https://www.geeksforgeeks.org/cc-tokens/)
 - [What are the three arguments of a ternary operator?](https://www.freecodecamp.org/news/c-ternary-operator/)
 - [Describe the concept of enum](https://www.geeksforgeeks.org/enumeration-enum-c/)
-- [Basic understanding of Design Patterns](https://www.javatpoint.com/singleton-design-pattern-in-java)
+- [Basic understanding of Design Patterns](https://www.tpointtech.com/singleton-design-pattern-in-java)
 - Is it possible for a class to inherit the constructor of it's base class?
 - [When should I use a struct instead of a class?](https://stackoverflow.com/questions/85553/when-should-i-use-a-struct-instead-of-a-class)
 - [Cohesion vs Coupling](https://stackoverflow.com/questions/3085285/difference-between-cohesion-and-coupling)
@@ -1125,7 +1125,7 @@ What to expect from these resources,
 - [Gateway vs Router](https://www.geeksforgeeks.org/difference-between-router-and-gateway/)
 - [NIC and MAC Address](https://securityxploded.com/basics-nic-mac-and-arp-tutorial.php)
 - [Public vs Private IP Address](https://www.geeksforgeeks.org/difference-between-private-and-public-ip-addresses/)
-- [What is Multiplexing](https://www.javatpoint.com/multiplexing-in-computer-network)
+- [What is Multiplexing](https://www.tpointtech.com/multiplexing-in-computer-network)
 - [Modem vs Router](https://www.youtube.com/watch?v=1-gDIlH8-fs)
 - [How Bluetooth Works](https://www.tutorialspoint.com/wireless_communication/wireless_communication_bluetooth.htm)
 - [How Hotspot Works](https://www.netspotapp.com/hardware/wifi-hotspot/)
@@ -1138,7 +1138,7 @@ What to expect from these resources,
   <summary style="font-size:1.15rem;">Security</summary>
 
 - [What is Firewall?](https://www.checkpoint.com/cyber-hub/network-security/what-is-firewall/)
-- [Types of Firewall](https://www.javatpoint.com/types-of-firewall)
+- [Types of Firewall](https://www.tpointtech.com/types-of-firewall)
 - [Possible attacks on Firewall](https://www.geeksforgeeks.org/types-of-firewall-and-possible-attacks/)
 - [Basic Network Attacks](https://www.geeksforgeeks.org/basic-network-attacks-in-computer-network/)
 - [Denial of Service and Prevention](https://www.geeksforgeeks.org/deniel-service-prevention/)
